@@ -12,7 +12,7 @@ Repositorio donde almacenar todo el estudio autodidacta sobre data science.
 - [x] Linear Algebra
 - [x] Statistics
 - [x] Probability
-- [] Hypothesis and Inference
+- [ ] Hypothesis and Inference
  
 ### Python for Data Analysis
 
