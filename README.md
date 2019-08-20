@@ -10,8 +10,10 @@ Repositorio donde almacenar todo el estudio autodidacta sobre data science.
 - [x] A Crash Course in Python
 - [x] Visualizing Data
 - [x] Linear Algebra
-- [ ] Statistics
-
+- [x] Statistics
+- [x] Probability
+- [] Hypothesis and Inference
+ 
 ### Python for Data Analysis
 
 ### Hands-On Machine Learing with Scikit-Learn, Keras & TensorFlow
